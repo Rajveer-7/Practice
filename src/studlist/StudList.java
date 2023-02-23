@@ -12,6 +12,7 @@ public class StudList {
     /**
      * @param args the command line arguments
      */
+    // Date 23 February
     public static void main(String[] args) {
         
         private String name;
