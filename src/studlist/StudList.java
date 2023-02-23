@@ -13,7 +13,16 @@ public class StudList {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+         private String Prince;
+
+    public String getPrince() {
+        return Prince;
+    }
+
+    public void setPrince(String Prince) {
+        this.Prince = Prince;
+    }
+         
         Student s=new Student();
         Student[] sList=new Student[4];
         
